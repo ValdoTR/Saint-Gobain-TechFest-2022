@@ -379,7 +379,7 @@
                 {
                  "height":128,
                  "id":7,
-                 "name":"silentZone",
+                 "name":"silentZone1",
                  "properties":[
                         {
                          "name":"silent",
@@ -396,7 +396,7 @@
                 {
                  "height":128,
                  "id":8,
-                 "name":"silentZone",
+                 "name":"silentZone2",
                  "properties":[
                         {
                          "name":"silent",
