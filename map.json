@@ -3582,8 +3582,124 @@
                  "width":96,
                  "x":3136,
                  "y":1792
+                }, 
+                {
+                 "height":128,
+                 "id":105,
+                 "name":"jitsiStage",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Stage"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":352,
+                 "x":1024,
+                 "y":64
+                }, 
+                {
+                 "height":64,
+                 "id":106,
+                 "name":"jitsiJury",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Stage"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":122,
+                 "x":1203.33333333333,
+                 "y":224
+                }, 
+                {
+                 "height":512,
+                 "id":107,
+                 "name":"liveViewers",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{ liveStreamURL }}}"
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1056,
+                 "x":672,
+                 "y":352
                 }],
          "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":55,
+         "name":"configuration",
+         "objects":[
+                {
+                 "height":0,
+                 "id":108,
+                 "name":"liveStreamURL",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/valdotr.github.io\/stream-starting-soon\/"
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Starting soon: https:\/\/valdotr.github.io\/stream-starting-soon\/"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Configure the live streaming URL"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":956,
+                 "y":322.666666666667
+                }],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"admin"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -3613,8 +3729,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":55,
- "nextobjectid":105,
+ "nextlayerid":56,
+ "nextobjectid":109,
  "orientation":"orthogonal",
  "properties":[
         {
