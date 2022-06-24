@@ -3461,9 +3461,9 @@
                  "name":"deckPitch1",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/presentation\/d\/1IjSzPoSMmwpq_jFo5H8XAgBfw-dYWfJsTzX9PuNmPCw"
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/1IjSzPoSMmwpq_jFo5H8XAgBfw-dYWfJsTzX9PuNmPCw\/copy"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -3493,9 +3493,9 @@
                  "name":"deckPitch2",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/presentation\/d\/1IjSzPoSMmwpq_jFo5H8XAgBfw-dYWfJsTzX9PuNmPCw"
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/1IjSzPoSMmwpq_jFo5H8XAgBfw-dYWfJsTzX9PuNmPCw\/copy"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -3525,9 +3525,9 @@
                  "name":"deckPitch3",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/presentation\/d\/1IjSzPoSMmwpq_jFo5H8XAgBfw-dYWfJsTzX9PuNmPCw"
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/1IjSzPoSMmwpq_jFo5H8XAgBfw-dYWfJsTzX9PuNmPCw\/copy"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -3557,9 +3557,9 @@
                  "name":"deckPitch4",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/presentation\/d\/1IjSzPoSMmwpq_jFo5H8XAgBfw-dYWfJsTzX9PuNmPCw"
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/1IjSzPoSMmwpq_jFo5H8XAgBfw-dYWfJsTzX9PuNmPCw\/copy"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
