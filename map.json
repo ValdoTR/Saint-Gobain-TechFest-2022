@@ -431,7 +431,7 @@
                  "name":"challengeDataAnalytics",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.isograd-testingservices.com\/EN\/techfest\/contestregister"
                         }, 
