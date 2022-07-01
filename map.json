@@ -646,7 +646,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/Qw617YX0r1A?start=470"
+                         "value":"https:\/\/www.youtube.com\/embed\/JsAunkRTXNo"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -656,7 +656,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE to watch \"Digital and data transforming the construction business\" video"
+                         "value":"Press SPACE to watch \"Top 6 reasons to apply to Saint-Gobain\" video"
                         }, 
                         {
                          "name":"silent",
@@ -678,7 +678,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/Qw617YX0r1A?start=470"
+                         "value":"https:\/\/www.youtube.com\/embed\/g3GOOSRWZds"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -688,7 +688,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE to watch \"Digital and data transforming the construction business\" video"
+                         "value":"Press SPACE to watch \"Saint-Gobain, certified Top Employer Global for the 7th time!\" video"
                         }, 
                         {
                          "name":"silent",
@@ -710,7 +710,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/Qw617YX0r1A?start=470"
+                         "value":"https:\/\/www.youtube.com\/embed\/J5g4uEGTvuI"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -720,7 +720,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE to watch \"Digital and data transforming the construction business\" video"
+                         "value":"Press SPACE to watch \"Be solutions-oriented, driven by sustainability and performance\" video"
                         }, 
                         {
                          "name":"silent",
@@ -742,7 +742,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/sg-techfest-2022-5sja8r33.dt.launchpad.cfapps.eu20.hana.ondemand.com\/"
+                         "value":"Challenge_ERP_FIORI.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -752,7 +752,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE to do the \"SAP\" with Fiori individual challenge!"
+                         "value":"Press SPACE to do the \"SAP\" individual challenge with FIORI"
                         }, 
                         {
                          "name":"silent",
@@ -3801,7 +3801,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/sgtechfest-2022.neptune-software.cloud\/"
+                         "value":"Challenge_ERP_NEPTUNE.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -3811,7 +3811,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE to do the \"SAP\" with Neptune individual challenge!"
+                         "value":"Press SPACE to do the \"SAP\" individual challenge with NEPTUNE"
                         }, 
                         {
                          "name":"silent",
